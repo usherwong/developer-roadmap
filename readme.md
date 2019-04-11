@@ -13,7 +13,7 @@
   <br>
 </p>
 
-> 本项目Fork自![Kamran Ahmed的developer roadmaps](https://github.com/kamranahmedse/developer-roadmap)
+> 本项目Fork自[Kamran Ahmed的developer roadmaps](https://github.com/kamranahmedse/developer-roadmap)
 
 以下图谱描述的是一个作为2019web开发者的学习路线。图谱下面的内容为知识点整理。
 
