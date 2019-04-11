@@ -86,22 +86,15 @@
     * [如何理解API，API 是如何工作的](https://blog.csdn.net/cumtdeyurenjie/article/details/80211896)
 10. 设计模式
     * [详解Javascript常见设计模式](https://juejin.im/entry/58c280b1da2f600d8725b887)
-        
 
 
-## 🙌 Contribution
+## 🙌 Frontend Roadmap
 
-> Have a look at [contribution docs](./contributing.md) for how to update any of the roadmaps
+> 未完待续
 
 - Open pull request with improvements
 - Discuss ideas in issues
 - Spread the word
-- Reach out with any feedback [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/kamranahmedse.svg?style=social&label=Follow%20%40kamranahmedse)](https://twitter.com/kamranahmedse)
-
-## Sponsored By	
-
- - [**Hackr.io** - Best Online Programming Courses & Tutorials Recommended by the Programming Community](https://hackr.io)
- - [**Noon** – Develop, Document, Test and Monitor your APIs](https://noon.sh/)
  
 ## License
 
