@@ -25,13 +25,6 @@
 
 ![Frontend Roadmap](./images/frontend.png)
 
-## Back-end Roadmap
-
-![Back-end Roadmap](./images/backend.png)
-
-## DevOps Roadmap
-
-![DevOps Roadmap](./images/devops.png)
 
 ## 🚦 Introduction
 1. Git版本控制
@@ -85,7 +78,7 @@
         * 了解HTTPS的安全性SSL
     * [如何理解API，API 是如何工作的](https://blog.csdn.net/cumtdeyurenjie/article/details/80211896)
 10. 设计模式
-    * [详解Javascript常见设计模式](https://juejin.im/entry/58c280b1da2f600d8725b887)
+    * [详解Javascript常见设计模式](https://github.com/usherwong/design-pattern-es6/wiki)
 
 
 ## 🙌 Frontend Roadmap
