@@ -74,12 +74,16 @@
 9. HTTP/HTTPS and APIs
     * [HTTP需要掌握的基础内容](https://zhuanlan.zhihu.com/p/60450391?utm_source=wechat_session&utm_medium=social&s_r=0#showWechatShareTip)
     * [深入解析HTTPS](https://www.cnblogs.com/qcloud1001/p/6526445.html)
-        * HTTP的危害
-        * 了解HTTPS的安全性SSL
     * [如何理解API，API 是如何工作的](https://blog.csdn.net/cumtdeyurenjie/article/details/80211896)
 10. 设计模式
     * [详解Javascript常见设计模式](https://github.com/usherwong/design-pattern-es6/wiki)
-
+11. 字符编码
+  - Unicode
+  - UTF-8
+  - Base64
+  - GBK
+  - GB2312
+  - ...
 
 ## 🙌 Frontend Roadmap
 
