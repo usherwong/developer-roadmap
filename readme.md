@@ -45,7 +45,7 @@
         * 里氏替换原则-The Liskov Substitution Principle
             * [子类型必须能够替换它们的基类型](https://baike.baidu.com/item/LSP/3156621?fr=aladdin)
         * 依赖倒置原则-The Dependency Inversion Principle
-            * 不要依赖实例编程，依赖抽象
+            * 不要依赖实例编程，依赖抽象 [举例](https://blog.csdn.net/zhengzhb/article/details/7289269)
         * 接口分离原则-The Interface Segregation Principle
             * 客户端不应该依赖它不需用的接口。
             * 类间的依赖关系应该建立在最小的接口上。
